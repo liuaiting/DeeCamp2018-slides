@@ -1,5 +1,7 @@
 # DeeCamp2018 知识课及技术分享会slides
 
+## Slides
+
 | file | contents | author |
 | --- | --- | --- |
 | John Hopcroft-Foundations of Data Science book.pdf | Foundations of Data Science book | John Hocroft，图灵奖得主、中科院外籍院士 |
@@ -29,3 +31,35 @@
 | 李昊-docker-guide.pdf | docker-guide | 李昊 |
 | 廖一桥-人工智能算法及硬件实现.pptx | 人工智能算法及硬件实现 | 廖一桥 |
 | 罗宾理-比赛常见套路思路入门.pptx | 比赛常见套路思路入门 | 罗宾理 |
+| DeeCamp知识课预习资料.pdf |  |  |
+
+# DeeCamp2018
+
+### [笔试](https://zhuanlan.zhihu.com/p/37912792?utm_source=wechat_timeline&utm_medium=social&utm_oi=26688658341888&from=groupmessage&isappinstalled=0)
+
+### [课程表](https://shimo.im/docs/rcsE0KyIn881LNjn)
+
+### 课件
+
+链接: <https://pan.baidu.com/s/1iew_nEEVskbOfB0OKqZllQ> 
+
+密码: 55xg
+
+other: <https://www.icloud.com/iclouddrive/0-dbrq7gIUEagsQgDR4NV-mZA#2018-07-27_deecamp>
+
+### [课程笔记](https://mubu.com/doc/18Q52EffBU)
+
+### 其他资料
+
+[【AI in 美团】深度学习在美团搜索广告排序的应用实践](https://mp.weixin.qq.com/s/9Fcj5lO-JPfFVnRSSM_56w)
+
+[RL实战小项目](http://ai.berkeley.edu/project_overview.html)
+
+### 图片直播
+
+[DeeCamp 创造轨迹 夏日团建](http://www.epaixiang.com/album_ia120596448.html)
+
+[DeeCamp项目展示暨结业典礼](https://gallery.vphotos.cn/vphotosgallery/index.html?vphotowechatid=144C5643CD52ED03A2504E83B59860CA&sign=881EC6C119CD2133B369FB3938A13745&photoSizeType=3&from=singlemessage&isappinstalled=0#/)
+
+[DeeCamp 开营](https://gallery.vphotos.cn/vphotosgallery/index.html?vphotowechatid=B0103F45CDB4503D106A1622A465ED84)
+
